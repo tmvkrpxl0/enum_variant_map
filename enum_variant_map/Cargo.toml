@@ -1,0 +1,8 @@
+[package]
+name = "enum_variant_map"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+enum_variant_map_types = { path = "../enum_variant_map_types" }
+enum_variant_map_macro = { path = "../enum_variant_map_macro" }

@@ -1,0 +1,3 @@
+[workspace]
+members = ["enum_variant_map", "enum_variant_map_types", "enum_variant_map_macro"]
+resolver = "2"
